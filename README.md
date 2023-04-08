@@ -1,5 +1,7 @@
 # Pokemon OU Usage Data for Generation 8 (Sword and Shield)
 
+### [Click here to view data visualization on Tableau Public](https://public.tableau.com/views/Pokemongen8v2/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## What this project is about
 
   This project takes data from [Smogon](www.smogon.com), one of the largest competitive Pokemon communities, and visualizes said data to find trends in competitive battling for Generation 8 (Sword and Shield) OU from November 2019 to November 2022. With this, one can gain an insight on how their favorite Pokemon (or any specific one) performed in the metagame during those specific months. This project used Tableau Public to create the visualization and Microsoft Excel for data cleaning and organization. 
@@ -25,6 +27,5 @@
   4. I created another Excel spreadsheet for auxiliary data like Evolutionary stages and Legendary Status. The data were obtained from [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) and [Serebii](https://www.serebii.net/index2.shtml).
   5. Using Tableau, I then created the visualization.
 
-## The Visualization
 
-[Click here to view data visualization](https://public.tableau.com/views/Pokemongen8v2/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
